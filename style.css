@@ -1,0 +1,52 @@
+body{
+    background-image:url('1.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 5px a;
+    margin: auto;
+    color: whitesmoke;
+  }
+  .container {
+    text-align: center;
+    margin-top: 100px;
+    color: aliceblue;
+  }
+  
+  h1 {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #4285F4;
+    color: #fff;
+  }
+  
+  button:hover {
+    background-color: #3C75D3;
+  }
+  
+  #response {
+    font-size: 24px;
+    margin-top: 50px;
+  }
+  
